@@ -1,5 +1,5 @@
 # spring09251035
-my new project
+my new project is the besta
 
 Based on seed project `atomist-seeds:spring-rest-seed`
 
